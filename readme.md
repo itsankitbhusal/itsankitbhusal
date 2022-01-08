@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ankit Bhusal</h1>
 <h3 align="center">A passionate developer from Nepal🇳🇵</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitbhusal" alt="ankitbhusal" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitbhusal&label=Profile%20views&color=0e75b6&style=flat" alt="ankitbhusal" /> </p>
+
+<p align="left"> <a href="https://twitter.com/ankitbhusal95" target="blank"><img src="https://img.shields.io/twitter/follow/ankitbhusal95?logo=twitter&style=for-the-badge" alt="ankitbhusal95" /></a> </p>
 
 - 🌱 I’m currently learning **PHP**
 
-- Official Website [https://ankitbhusal.com.np/](https://ankitbhusal.com.np/)
-
 - Email **ankitbhusal95@gmail.com**
+
+- Official Website [https://ankitbhusal.com.np/](https://ankitbhusal.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
