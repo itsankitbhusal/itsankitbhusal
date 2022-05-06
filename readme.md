@@ -10,13 +10,12 @@
 
 - Website [https://ankitbhusal.com.np/](https://ankitbhusal.com.np/)
 
-<br>
-# 📊GitHub Stats :
+
+<h3>📊GitHub Stats:</h3>
 ![](https://github-readme-stats.vercel.app/api?username=ankitbhusal&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankitbhusal&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitbhusal&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ankitbhusal20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankitbhusal20" height="30" width="40" /></a>
