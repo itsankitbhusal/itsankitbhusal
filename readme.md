@@ -10,7 +10,7 @@
 
 - Website [https://ankitbhusal.com.np/](https://ankitbhusal.com.np/)
 
-<h3 align="left">📊Github Status:</h3>
+##📊Github Status##
 ![](https://github-readme-stats.vercel.app/api?username=ankitbhusal&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankitbhusal&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitbhusal&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
