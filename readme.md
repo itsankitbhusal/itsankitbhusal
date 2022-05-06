@@ -11,7 +11,7 @@
 - Website [https://ankitbhusal.com.np/](https://ankitbhusal.com.np/)
 
 
-<h3 align="center">📊GitHub Stats :</h3>
+<h3 >📊GitHub Stats :</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=ankitbhusal&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankitbhusal&theme=react&hide_border=true)<br/>
