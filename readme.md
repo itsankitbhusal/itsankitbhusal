@@ -4,11 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitbhusal&label=Profile%20views&color=0e75b6&style=flat" alt="ankitbhusal" /> </p>
 
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Web Development**
 
 - Email **ankitbhusal95@gmail.com**
 
-- Official Website [https://ankitbhusal.com.np/](https://ankitbhusal.com.np/)
+- Website [https://ankitbhusal.com.np/](https://ankitbhusal.com.np/)
+
+<h3 align="left">📊Github Status:</h3>
+![](https://github-readme-stats.vercel.app/api?username=ankitbhusal&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ankitbhusal&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitbhusal&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
