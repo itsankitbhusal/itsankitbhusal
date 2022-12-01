@@ -2,7 +2,6 @@
 ### Tech Enthusiast, Graphic Designer and Web Developer
 
 
-<br>
  🌱 I’m currently learning **Web Development**
 
  Email **ankitbhusal95@gmail.com**
